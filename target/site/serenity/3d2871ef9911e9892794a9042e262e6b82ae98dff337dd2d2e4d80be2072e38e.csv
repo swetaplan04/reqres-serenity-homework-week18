@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users CRUD test","This will create a user","SUCCESS","2022-06-06T23:17:08.007+01:00[Europe/London]","0.0","4.1"
+"Users CRUD test","Verify is User is added or not","FAILURE","2022-06-06T23:17:12.126+01:00[Europe/London]","0.0","0.13"
+"Users CRUD test","This will login a user","SUCCESS","2022-06-06T23:17:12.264+01:00[Europe/London]","0.0","0.12"
+"Users CRUD test","This will update a user by PUT","SUCCESS","2022-06-06T23:17:12.387+01:00[Europe/London]","0.0","0.13"
+"Users CRUD test","This will update a user by Patch","SUCCESS","2022-06-06T23:17:12.520+01:00[Europe/London]","0.0","0.12"
+"Users CRUD test","This will update a user by Patch","SUCCESS","2022-06-06T23:17:12.646+01:00[Europe/London]","0.0","0.12"
